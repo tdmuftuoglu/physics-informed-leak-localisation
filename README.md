@@ -40,5 +40,3 @@ If you use this code or methodology in your research, please cite the original a
 
 **Müftüoğlu, T. D. (2026). Beyond the analytic baseline: a physics-informed hybrid framework for leak localisation and sizing in water distribution pipes, with quantified model-error and measurement-noise budgets.
 
-
-}
